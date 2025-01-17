@@ -209,14 +209,14 @@ main> section{
 /* footer section styles */
 .rights{
     width: 1440px;
-    height: 100px;
+    height: 70px;
     font-size: 20px;
     color: rgba(66, 66, 66, 1);
     background-color: rgba(255, 244, 231, 1);
     border: none;
     border-radius: 8px;
     text-align: center;
-    margin: 100px 235px;
+    margin: 130px 240px;
     
 }
 .form-container{
