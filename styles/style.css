@@ -219,9 +219,7 @@ main> section{
     margin: 130px 240px;
     
 }
-.form-container{
-    width: 100%;
-}
+
 
 /* responsive media query */
 @media screen and (max-width:576px) {
